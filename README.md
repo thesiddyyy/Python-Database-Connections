@@ -10,13 +10,13 @@ It includes hands-on Jupyter Notebooks demonstrating how to:
 
 ---
 
-## 📂 **Repository Structure**
+##  **Repository Structure**
 
 
 
 ---
 
-## 🗃️ **MySQL – Python Connection**
+##  **MySQL – Python Connection**
 
 Notebook: `mysql/Python_MySQL_Connection.ipynb`  
 Contents include:
@@ -29,7 +29,7 @@ Contents include:
 
 ---
 
-## 🗄️ **SQLite – Python Database**
+##  **SQLite – Python Database**
 
 Notebook: `sqlite/SQLite+DB.ipynb`
 
@@ -42,7 +42,7 @@ Contents include:
 
 ---
 
-## ✅ **Technologies Used**
+##  **Technologies Used**
 
 - Python  
 - MySQL  
@@ -51,7 +51,7 @@ Contents include:
 
 ---
 
-## 📌 **Purpose of This Repo**
+##  **Purpose of This Repo**
 
 This repo demonstrates **fundamental database operations**, which are essential for:
 
@@ -62,15 +62,4 @@ This repo demonstrates **fundamental database operations**, which are essential 
 
 ---
 
-## 🤝 **Contributions**
 
-This is a learning-focused repository.  
-You can add more notebooks such as:
-
-- PostgreSQL connection  
-- MongoDB with Python  
-- SQLAlchemy ORM  
-
----
-
-## ⭐ If you found this helpful, consider giving the repo a star!
